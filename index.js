@@ -48,7 +48,7 @@ module.exports = {
       }
     ],
     indentation: [
-      4,
+      2,
       {
         except: ["value"]
       }
